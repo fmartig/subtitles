@@ -797,44 +797,44 @@ for all these other things.</source>
       <trans-unit id="162" resname="08963b00c35bdc709ecded2b62db9940">
         <source>So by working on this we can get some
 quick relief for the next 20-30 years.</source>
-        <target>En travaillant sur ça, on peut donc obtenir </target>
+        <target>En travaillant sur ça, on peut donc obtenir un soulagement rapide pour les 20 à 30 prochaines années.</target>
       </trans-unit>
       <trans-unit id="163" resname="ad42c9550b5202f5703ca0ebb082f046">
         <source>So this is all put together.</source>
-        <target></target>
+        <target>Voici quand on regroupe tout.</target>
       </trans-unit>
       <trans-unit id="164" resname="a557fe127e957d2ebfc360e32d5a7379">
         <source>I, I'm looking at this.</source>
-        <target></target>
+        <target>C'est ça que je regarde.</target>
       </trans-unit>
       <trans-unit id="165" resname="5be0e56142a092549c63607d54ee4a06">
         <source>I'm remembering what prophecy Mr
 Summerville said,</source>
-        <target></target>
+        <target>Je me souviens de la prophétie de M. Summerville,</target>
       </trans-unit>
       <trans-unit id="166" resname="2504ecf0d4177aa0388f391cd0f005ab">
         <source>I'm not going to show any graphs.</source>
-        <target></target>
+        <target>je ne vais pas vous montrer des graphiques,</target>
       </trans-unit>
       <trans-unit id="167" resname="a1c9b99b20c70a40f996ec2e2c503c62">
         <source>So I'm not going to walk you through a
 step by</source>
-        <target></target>
+        <target>je ne vais pas vous détailler le plan étape par étape,</target>
       </trans-unit>
       <trans-unit id="168" resname="26ba75bad96e7a41f375b883aba168ac">
         <source>step, but what it shows is a projection of
 temperature trends.</source>
-        <target></target>
+        <target>mais ce que ça montre c'est le résultat d'une modélisation</target>
       </trans-unit>
       <trans-unit id="169" resname="79527d004268e8d81b330c979cb816e4">
         <source>Temperature, yeah, trends for the future
 from a model.</source>
-        <target></target>
+        <target>des prévisions de température pour le futur.</target>
       </trans-unit>
       <trans-unit id="170" resname="08e83fe1196b3ff00cdb4b465b924896">
         <source>The red curve is where we will be if we
 don't do anything about it.</source>
-        <target></target>
+        <target>La courbe rouge représente la situation si on ne fait rien.</target>
       </trans-unit>
       <trans-unit id="171" resname="6b5c5ffeed1635789df0453225daf51a">
         <source>Okay?</source>
@@ -843,109 +843,109 @@ don't do anything about it.</source>
       <trans-unit id="172" resname="7a6f368eee7db1ad9f18ea9534567ed6">
         <source>We'll exceed four to two degrees by 2050
 and four degrees by 2100.</source>
-        <target></target>
+        <target>La température moyenne augmentera de plus de 2°C d'ici 2050 et de 4°C en 2100. </target>
       </trans-unit>
       <trans-unit id="173" resname="eedb54f60b15732f830d569ac5f780d4">
         <source>So if you limit the CO2 to, you know, 440</source>
-        <target></target>
+        <target>Si on limite la concentration de CO2 à 440 ppm</target>
       </trans-unit>
       <trans-unit id="174" resname="a372bcf347a74653c7d0a6b6f3221f30">
         <source>parts per million, that warming would be
 reduced by a degree.</source>
-        <target></target>
+        <target>le réchauffement sera moindre d'un degré.</target>
       </trans-unit>
       <trans-unit id="175" resname="1ec308545d4d47ba25cf7f0404168fe0">
         <source>And then the so called short lived climate
 pollutants will give you another</source>
-        <target></target>
+        <target>Réduire les «polluants climatiques à courte durée de vie» </target>
       </trans-unit>
       <trans-unit id="176" resname="f9b6042fb95e79b781219ff71967887e">
         <source>degree, so that we can maintain the</source>
-        <target></target>
+        <target>apporte aussi un degré, on peut donc ainsi</target>
       </trans-unit>
       <trans-unit id="177" resname="b101ecadd97350304f952087b89db922">
         <source>temperature under two degrees throughout
 the century.</source>
-        <target></target>
+        <target>maintenir l'augmentation de la température inférieure à 2°C au cours du siècle. </target>
       </trans-unit>
       <trans-unit id="178" resname="f80a82335e0a2d7b00f33a234ceb5ea6">
         <source>So it's not a hopeless problem, but</source>
-        <target></target>
+        <target>Ce n'est pas une situation désespérée.</target>
       </trans-unit>
       <trans-unit id="179" resname="411cde018116fba72f6fa3428d632b3b">
         <source>of course, limiting carbon dioxide
 emission is the</source>
-        <target></target>
+        <target>Bien sur, limiter les émissions de CO2 est un énorme défi</target>
       </trans-unit>
       <trans-unit id="180" resname="9d5e018366ed5613933c779a1c326002">
         <source>huge challenge, and I think that's what
 the seed is all about, how to engineer.</source>
-        <target></target>
+        <target>et je pense que ....</target>
       </trans-unit>
       <trans-unit id="181" resname="e65c00b7b2894c3578f8f70c0479509b">
         <source>We need engineers to solve the problem.</source>
-        <target></target>
+        <target>nous avons besoin d'ingénieurs pour résoudre le problème.</target>
       </trans-unit>
       <trans-unit id="182" resname="5d71b318173f283cbad30a55d06514e1">
         <source>On the right hand side, I'm showing
 projected sea level rise.</source>
-        <target></target>
+        <target>À droite, vous voyez la projection de l'augmentation du niveau de la mer.</target>
       </trans-unit>
       <trans-unit id="183" resname="7174bb3dbcbd8bfe4ab568db83063052">
         <source>It's difficult to walk me through this.</source>
-        <target></target>
+        <target>C'est difficile à expliquer.</target>
       </trans-unit>
       <trans-unit id="184" resname="150d1cbfd4ac4bf6b3b40f7b5be576d1">
         <source>Basically what it shows, together within
 carbon</source>
-        <target></target>
+        <target>En gros, ce que ça montre, c'est qu'en réduisant</target>
       </trans-unit>
       <trans-unit id="185" resname="c62bd81250fd4a11a447a37073fb226c">
         <source>dioxide and the short lived climate
 pollutants.</source>
-        <target></target>
+        <target>le CO2 et les polluants à courte durée de vie ensemble</target>
       </trans-unit>
       <trans-unit id="186" resname="186a691fc6a347b1364d66a42232972c">
         <source>You can cut down the projected sea level
 rise by about 30%, okay.</source>
-        <target></target>
+        <target>on peut réduire l'augmentation du niveau de la mer projetée de 30%.</target>
       </trans-unit>
       <trans-unit id="187" resname="1162d2880d5bc2d0e800d4f78a8c0ed5">
         <source>So what, what does this mean?</source>
-        <target></target>
+        <target>Qu'est ce que ça veut dire ?</target>
       </trans-unit>
       <trans-unit id="188" resname="14b57aea6160a61a560a3b2388ce06c6">
         <source>What does two degrees mean or four
 degrees,</source>
-        <target></target>
+        <target>Qu'est ce que 2 ou 4 degrés veulent dire ?</target>
       </trans-unit>
       <trans-unit id="189" resname="a83897079096bc99262cc1afe82e84c6">
         <source>let me just give you some sense of
 perspective.</source>
-        <target></target>
+        <target>Laissez moi mettre ça en perspective.</target>
       </trans-unit>
       <trans-unit id="190" resname="0022b75c31601d2928961b18558fe6f2">
         <source>Many skeptics say, oh the climate has
 changed by several degrees in the past.</source>
-        <target></target>
+        <target>De nombreux sceptiques disent «Oh, le climat a changé de plusieurs degrés dans le passé,</target>
       </trans-unit>
       <trans-unit id="191" resname="0134b5e15cae20374307ec57617498d9">
         <source>Another two degrees is not a big deal.</source>
-        <target></target>
+        <target>deux autres degrés, ce n'est pas grand chose.»</target>
       </trans-unit>
       <trans-unit id="192" resname="5641140b7d781e2e35321ac0337289b1">
         <source>What they forget to tell you is that this
 shows</source>
-        <target></target>
+        <target>Ce qu'ils oublient de vous dire, c'est que ceci montre</target>
       </trans-unit>
       <trans-unit id="193" resname="b8cc99ba98e548cd27c7e215e7ae319e">
         <source>how the planet's temperature has changed
 in the last 50.</source>
-        <target></target>
+        <target>les variations de la température moyenne au cours des 50 ????</target>
       </trans-unit>
       <trans-unit id="194" resname="f77d229b12afe9622cf74b7683bc8274">
         <source>They are right.</source>
-        <target></target>
+        <target>Ils ont raison,</target>
       </trans-unit>
       <trans-unit id="195" resname="edbdc98ed8d77d303c1425d1b8a279f7">
         <source>Climate change is even without us.</source>
@@ -954,7 +954,7 @@ in the last 50.</source>
       <trans-unit id="196" resname="22d50af12ccdabbf379339bcd8c603c9">
         <source>But if you see, we go through glacial,
 interglacial cycles.</source>
-        <target></target>
+        <target>Mais, regardez, on passe par des cycles glaciaires et interglaciaires.</target>
       </trans-unit>
       <trans-unit id="197" resname="62d0a477faf586e845336d3399b8b04b">
         <source>Okay?</source>
@@ -963,54 +963,54 @@ interglacial cycles.</source>
       <trans-unit id="198" resname="136b068930fbcad1cdecd38ac1ed9ba9">
         <source>So we have been in a glacial cycle last
 50,000</source>
-        <target></target>
+        <target>On a été dans un cycle glaciaire ces 50 000 dernières années,</target>
       </trans-unit>
       <trans-unit id="199" resname="08ea61a1000efb7eb64ea44180d2595b">
         <source>years, just got out of it, but 6,000 years
 ago.</source>
-        <target></target>
+        <target>on en est sorti il n'y a que 6 000 ans, </target>
       </trans-unit>
       <trans-unit id="200" resname="39ab3fba8dca1cde0b47fcda6131e842">
         <source>And we are trying to push it beyond that.</source>
-        <target></target>
+        <target>et on essaye d'aller plus loin.</target>
       </trans-unit>
       <trans-unit id="201" resname="a69eed0b2f71cce0bca3f6c3e2ba22a7">
         <source>Which means, when it's quoted two or four
 degrees, it's a planet</source>
-        <target></target>
+        <target>Cela veut dire, si on a une augmentation de 2 ou 4 degrés, </target>
       </trans-unit>
       <trans-unit id="202" resname="2cdf21d917e644413627c0daa0ab5ab7">
         <source>the system has not experienced, over the
 last 50,000 to 100,000 years.</source>
-        <target></target>
+        <target>on a une situation que la planète n'a pas connue depuis 50 000 à 100 000 ans.</target>
       </trans-unit>
       <trans-unit id="203" resname="65f91e87527b6272e8be6e5d0ae77adb">
         <source>So that's the key.</source>
-        <target></target>
+        <target>C'est ça la clé,</target>
       </trans-unit>
       <trans-unit id="204" resname="1f47669e0466cbd8747ec2b108ffe208">
         <source>The change is on top of a warm epoch we're
 going through.</source>
-        <target></target>
+        <target>ce changement s'ajoute au fait qu'on traverse une période chaude,</target>
       </trans-unit>
       <trans-unit id="205" resname="245523ece7f7280758b74ff6a836ec02">
         <source>That's what worries scientists.</source>
-        <target>C'est ce qui inquiète les scientifiques.</target>
+        <target>et c'est ce qui inquiète les scientifiques :</target>
       </trans-unit>
       <trans-unit id="206" resname="d37d393c00f50e91a2b7df3a66f8447b">
         <source>Because that's a planet we don't have any
 calibration for our models, and I honestly</source>
-        <target></target>
+        <target>c'est une planète pour laquelle on n'a pas de calibration pour les modèles, </target>
       </trans-unit>
       <trans-unit id="207" resname="175a7868cfad1a83b18dee30a4a3bdbe">
         <source>do not put too much trust on models on
 such vastly different planet.</source>
-        <target></target>
+        <target>et honnêtement, je ne fais pas confiance aux modèles pour une planète si différente,</target>
       </trans-unit>
       <trans-unit id="208" resname="3f2ff6933786c8ac945f68185273fd3b">
         <source>Okay because they have way no to calibrate
 them.</source>
-        <target></target>
+        <target>parce qu'ils n'ont aucun moyen de les calibrer.</target>
       </trans-unit>
     </body>
   </file>
