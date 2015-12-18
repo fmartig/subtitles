@@ -286,59 +286,67 @@ rendu compte :</target>
       <trans-unit id="52" resname="78e10a5ea41eae9ea05dc265a5c8cd66">
         <source>There are indeed two worlds or two
 planets.</source>
-        <target>il y a en effet deux mondes,</target>
+        <target>il y a en effet deux mondes, 
+ou deux planètes.</target>
       </trans-unit>
       <trans-unit id="53" resname="d6c6d7c6ae13b3b656339b51dbeb85ff">
         <source>The first one, the top 4 billion, who seem
 to have unlimited access</source>
-        <target>avec les 4 milliards supérieurs qui accèdent sans  illimité aux carburants fossiles</target>
+        <target>D'un côté, 4 milliards de privilégiés
+ayant accès aux carburants fossiles,</target>
       </trans-unit>
       <trans-unit id="54" resname="9441c042cb0b839e13ed95f55de0ee5c">
         <source>to fossil fuels, and the bottom 3 billion,
 who lack access to any energy.</source>
-        <target>et les 3 milliards inférieurs qui n'ont accès à aucune énergie.</target>
+        <target>de l'autre, 3 milliards
+qui ne peuvent y accéder:</target>
       </trans-unit>
       <trans-unit id="55" resname="a4ad6fda3cab93ac6479a0c30dd96b0c">
         <source>Not that it's not available, they can't
 afford it.</source>
-        <target>Elle est disponible mais ils n'ont pas les moyens de s'en fournir,</target>
+        <target>ces énergies sont disponibles,
+mais trop chères</target>
       </trans-unit>
       <trans-unit id="56" resname="257f3f448e7ac5f2fe13b374496309f6">
         <source>So they rely on solid bio-mass.</source>
-        <target>ils s'appuient uniquement sur la biomasse solide.</target>
+        <target>ils utilisent donc de la biomasse solide.</target>
       </trans-unit>
       <trans-unit id="57" resname="38d12337337477ece3edbf687c60f45b">
         <source>And we need to understand, this is not</source>
-        <target>Nous devons comprendre que ce n'est pas obscène</target>
+        <target>Nous devons comprendre que préciser</target>
       </trans-unit>
       <trans-unit id="58" resname="39a9c02a305227b4f9c62bc3d839500c">
         <source>obscene when we talk about the climate
 change issue,</source>
-        <target>de préciser, en parlant du changement climatique,</target>
+        <target>de quel monde on parle
+à propos du changement climatique,</target>
       </trans-unit>
       <trans-unit id="59" resname="00ccddea80e2b57095f5c536410069b5">
         <source>which world are we addressing and I'll
 touch on that soon.</source>
-        <target>de quel monde on parle. Je vais y venir.</target>
+        <target>n'est pas obscène. Je vais y venir.</target>
       </trans-unit>
       <trans-unit id="60" resname="f592797318508cb692be49a04b5fe0a3">
         <source>So recognizing, this the UN has far more
 sustainable energy for all.</source>
-        <target>Les Nations Unies le reconnaissent et ont le programme «Énergie durable pour tous».</target>
+        <target>Sachant cela,l'ONU a lancé l'initiative
+ «Énergie durable pour tous»</target>
       </trans-unit>
       <trans-unit id="61" resname="1958a4139b0dc6d506cfe08e1553199d">
         <source>And, and to quote Ban Ki Moon, the UN
 Secretary General, saving our planet,</source>
-        <target>POur citer Ban Ki Moon, le secrétaire général de l'ONU :</target>
+        <target>et, pour citer son secrétaire général
+Ban Ki Moon: «Sauver notre planète,</target>
       </trans-unit>
       <trans-unit id="62" resname="8228238dcd753647ede755c671c9988b">
         <source>lifting people out of poverty, advancing
 economic</source>
-        <target>«Sauver notre planète, sortir les gens de la pauvreté,</target>
+        <target>sortir les gens de la pauvreté,
+promouvoir la croissance économique,</target>
       </trans-unit>
       <trans-unit id="63" resname="fd90f0cdc5f649dd84d4e21ff33b5774">
         <source>growth, these are one and the same fight.</source>
-        <target>promouvoir la croissance économique, c'est un seul et unique combat.»</target>
+        <target>c'est un seul et unique combat.»</target>
       </trans-unit>
       <trans-unit id="64" resname="a69644fd392aad985de61e166dc8e8fd">
         <source>That's exactly what I'm going to show you,
@@ -352,74 +360,86 @@ some examples of that.</source>
       <trans-unit id="66" resname="18546b56cfde1b046b0372d31f6e7293">
         <source>and then Professor Keeling also mentioned
 it.</source>
-        <target>vous en ont déjà parlé,</target>
+        <target>vous en ont déjà parlé,
+nous devons réduire</target>
       </trans-unit>
       <trans-unit id="67" resname="f240c90767be4aac25128f5fd8cd5716">
         <source>We need to cut CO2.</source>
-        <target>nous devons réduire les émissions de CO2,</target>
+        <target> les émissions de CO2,</target>
       </trans-unit>
       <trans-unit id="68" resname="66c3fee70e0ec54cbbba4c8912c8b1dc">
         <source>Without that, there's no hope for limiting
 climate change.</source>
-        <target>sans quoi il n'y a aucun espoir de contenir le changement climatique.</target>
+        <target>sans quoi il n'y a aucun espoir
+de contenir le changement climatique.</target>
       </trans-unit>
       <trans-unit id="69" resname="1b125d3881f320a3e0ebc9f35e8707c5">
         <source>But that the jargon is decarbonization of
 the economy and reducing</source>
-        <target>Les expressions appropriées sont «la décarbonisation de l'économie» </target>
+        <target>Les expressions utilisées sont 
+la décarbonisation de l'économie </target>
       </trans-unit>
       <trans-unit id="70" resname="aa5072eebea6f4364b4444a8a0f0f868">
         <source>carbon footprint, this applies to the T4B,
 planet T4B, top 4 billion.</source>
-        <target>et la «réduction de l'empreinte carbone», qui concerne les 4 milliards supérieurs.</target>
+        <target>et la réduction de l'empreinte carbone, 
+ce qui vise les 4 milliards privilégiés.</target>
       </trans-unit>
       <trans-unit id="71" resname="f98c3b2040ea74375cdaa2759f0b86f7">
         <source>The bottom 3 billion have no foot print to
 leave there, okay?</source>
-        <target>Les 3 milliards les plus pauvres n'ont pas d'empreinte à laisser, d'accord?</target>
+        <target>Les 3 milliards les plus pauvres n'ont pas
+d'empreinte à laisser.</target>
       </trans-unit>
       <trans-unit id="72" resname="33aa6de370798fadf155bbc16f7540c7">
         <source>So what I want to show you a convincing
 case, it's to the benefit of</source>
-        <target>je veux vous convaincre que fournir aux 3 milliards un accès à de l'énergie propre</target>
+        <target>Je veux vous convaincre que permettre
+l'accès des plus pauvres</target>
       </trans-unit>
       <trans-unit id="73" resname="709c93c4918ef02a126bec2a7044dca2">
         <source>the top 4 billion, we need to get clean
 energy access to the bottom 3 billion.</source>
-        <target>bénéficie aux 4 milliards les plus riches.</target>
+        <target> à de l'énergie propre 
+va aussi bénéficier aux plus riches.</target>
       </trans-unit>
       <trans-unit id="74" resname="e4429365fc4b359487f20dc8957bdc97">
         <source>After all, this is the energy series, it
 fits in this quite nicely.</source>
-        <target>Après tout, on est dans la série sur l'énergie, ça colle au thème.</target>
+        <target>Après tout, dans une série de cours
+sur l'énergie, ça colle au thème.</target>
       </trans-unit>
       <trans-unit id="75" resname="a55e54225390bca0cdaa0c1d0a8d07d4">
         <source>So I'm going to mention that to you, okay?</source>
-        <target>C'est ce dont je vais vous parler, d'accord?</target>
+        <target>C'est donc ce dont je vais vous parler.</target>
       </trans-unit>
       <trans-unit id="76" resname="d175d8a8a13209341e4a0e3066113b3b">
         <source>So first, we heard about the CO2, carbon
 dioxide,</source>
-        <target>D'abord, nous avons entendu parlé du dioxide de carbone, C02,</target>
+        <target>D'abord, nous avons entendu parler du C02,
+le dioxide de carbone, </target>
       </trans-unit>
       <trans-unit id="77" resname="537e77e8b2aa7aac6607c173439d164e">
         <source>the major greenhouse gas, its lifetime
 essentially to 1,000 years.</source>
-        <target>le principal gaz à effet de serre dont la durée de vie est de 1000 ans.</target>
+        <target>le principal gaz à effet de serre 
+dont la durée de vie est de 1000 ans.</target>
       </trans-unit>
       <trans-unit id="78" resname="42de416048295492aa089c64b44a4f61">
         <source>So unless we cut down the CO2, now we're
 going to unleash huge climate warming.</source>
-        <target>Donc, à moins de sérieusement réduire le CO2 émis, nous allons créer un énorme réchauffement climatique.</target>
+        <target>Nous allons donc réchauffer le climat 
+si nous ne réduisons pas le CO2 émis:</target>
       </trans-unit>
       <trans-unit id="79" resname="c20f2c418bdcd3361f55a9da99810fe1">
         <source>So that's one knob.</source>
-        <target>C'est un des boutons de contrôle.</target>
+        <target>c'est un bouton de contrôle.</target>
       </trans-unit>
       <trans-unit id="80" resname="c8e2e649deb2b744127c5fef84f14f46">
         <source>The other thing is, do we have another
 knob to reduce climate change?</source>
-        <target>Mais avons nous un autre bouton contrôlant le changement climatique ?</target>
+        <target>Mais avons nous un autre bouton 
+contrôlant le changement climatique ?</target>
       </trans-unit>
       <trans-unit id="81" resname="47fd1ed4c5a1115c35a6ab8342f0c145">
         <source>Turns out there is, okay.</source>
@@ -427,12 +447,14 @@ knob to reduce climate change?</source>
       </trans-unit>
       <trans-unit id="82" resname="211ce627f55aff0238a6a4775e9d087a">
         <source>They work together well, and these are</source>
-        <target>ils travaillent bien ensemble,</target>
+        <target>ils travaillent bien ensemble,
+et ce sont</target>
       </trans-unit>
       <trans-unit id="83" resname="5062613d56978c76710cd0c20d6db2a0">
         <source>what I'd introduce as short lived climate
 pollutants.</source>
-        <target>et c'est ce que j'appelle les polluants du climat à courte durée de vie.</target>
+        <target>ce que j'appelle les polluants climatiques
+à courte durée de vie.</target>
       </trans-unit>
       <trans-unit id="84" resname="7e0a29ea7700b69c207521b160d32086">
         <source>These are four ga, well, three gases.</source>
@@ -441,12 +463,15 @@ pollutants.</source>
       <trans-unit id="85" resname="5317006ac3fe1be41303983ac5fcbddf">
         <source>Methane, which is natural gas, we use for
 cooking.</source>
-        <target>le méthane, c'est-à-dire le gaz naturel, utilisé en cuisine,</target>
+        <target>le méthane ou gaz naturel,
+à usage domestique,
+</target>
       </trans-unit>
       <trans-unit id="86" resname="e9c328c6b9c1bff74a44f37ae7209773">
         <source>And it escapes in the production and
 transmission process.</source>
-        <target>et qui s'échappe lors de sa production et son transport.</target>
+        <target>qui s'échappe lors de sa production
+et son transport.</target>
       </trans-unit>
       <trans-unit id="87" resname="21b5c379ba63ab4c0d171fcac458fe16">
         <source>Okay?</source>
@@ -458,16 +483,18 @@ transmission process.</source>
       </trans-unit>
       <trans-unit id="89" resname="7bbad99eb1c92802d37b07e8601fd601">
         <source>Ozone, which we think of as smog.</source>
-        <target>L'ozone, auquel on pense avec le smog.</target>
+        <target>L'ozone, visible sous forme de smog.</target>
       </trans-unit>
       <trans-unit id="90" resname="c2eb920b02a1f68f45004f225bf7edb5">
         <source>Ozone, we don't put on ozone, we put</source>
-        <target>On n'émet pas de l'ozone, </target>
+        <target>Nous n'émettons pas d'ozone
+mais des composés </target>
       </trans-unit>
       <trans-unit id="91" resname="e8f57c76f2dd8b43d3075b58e9a792c3">
         <source>other compounds: methane, carbon monoxide,
 others which produce ozone.</source>
-        <target>c'est d'autres composés tels que le méthane et le monoxide de carbone qui produisent l'ozone,</target>
+        <target>comme le méthane,le monoxide de carbone
+entre autres qui produisent de l'ozone,</target>
       </trans-unit>
       <trans-unit id="92" resname="802cd04ef2dc7dcec44063c4a0c697c5">
         <source>Which then heats the planet.</source>
@@ -475,12 +502,13 @@ others which produce ozone.</source>
       </trans-unit>
       <trans-unit id="93" resname="7c7bc146f6d4deda341c952f4e629c42">
         <source>The third is hydroflourocarbons.</source>
-        <target>Le troisième est la classe des hydrofluorocarbures </target>
+        <target>Le troisième sont les hydrofluorocarbures</target>
       </trans-unit>
       <trans-unit id="94" resname="4eb432d0450e3ed87308678a160cc276">
         <source>These are used as refrigerants, which
 leaks out of our refrigeration.</source>
-        <target>qui sont utilisés comme réfrigérants et fuient des systèmes de réfrigération.</target>
+        <target>qui sont utilisés dans les systèmes
+de réfrigération et s'en échappent.</target>
       </trans-unit>
       <trans-unit id="95" resname="da2769867307eca861f474d5352ded6b">
         <source>And the fourth is black carbon.</source>
@@ -496,21 +524,23 @@ leaks out of our refrigeration.</source>
       </trans-unit>
       <trans-unit id="98" resname="a5e212b39b81c8eac565ea234100b158">
         <source>It's a, say it's a, itâs a particle.</source>
-        <target>C'est une particule,</target>
+        <target>C'est un aérosol,</target>
       </trans-unit>
       <trans-unit id="99" resname="e0f1fd16455c1bf564316a11263f5608">
         <source>Itâs a dark stuff which comes out of
 diesel combustion or fires.</source>
-        <target>c'est cette chose noire émise par les moteurs diesel et les feux.</target>
+        <target>c'est cette chose noire
+émise par les moteurs diesel et les feux.</target>
       </trans-unit>
       <trans-unit id="100" resname="6183bcbc6a0c54d44f910e532e96896d">
         <source>It is the most potent absorber of sunlight</source>
-        <target>C'est la substance la plus absorbante de lumière du soleil </target>
+        <target>Cette substance a le plus fort pouvoir</target>
       </trans-unit>
       <trans-unit id="101" resname="02170d24f38f71268d9f1aa6246fdb2e">
         <source>bright unit mass of any substance there
 is.</source>
-        <target>par unité de masse.</target>
+        <target>d'absorption de la lumière 
+par unité de masse.</target>
       </trans-unit>
       <trans-unit id="102" resname="4d8c909164e20530aa480558febc212f">
         <source>Okay?</source>
@@ -518,73 +548,81 @@ is.</source>
       </trans-unit>
       <trans-unit id="103" resname="f1b3945139a2ed5013e19735189a96fc">
         <source>So how long have we known them?</source>
-        <target>Depuis combien de temps savons nous cela ?</target>
+        <target>Depuis combien de temps le savons nous ?</target>
       </trans-unit>
       <trans-unit id="104" resname="b7e972809c4b396a736442e01c5a2483">
         <source>You can ask, how, how come I've not heard
 about this?</source>
-        <target>Vous pouvez demander : «Pourquoi est ce que je n'en ai jamais entendu parler ?»</target>
+        <target>Vous pouvez demander :
+«Pourquoi j'en ai pas entendu parler ?</target>
       </trans-unit>
       <trans-unit id="105" resname="cdc8c966098654a5fcd584dd6a698e1f">
         <source>I hear only about carbon dioxide.</source>
-        <target>«Je n'entends parler que du dioxide de carbone.» </target>
+        <target>On ne parle que du dioxide de carbone.»</target>
       </trans-unit>
       <trans-unit id="106" resname="bd19a96aa3fc9f040e1c945cf98042ed">
         <source>But we've known them for quite sometime,
 and I think that Ralph mentioned this.</source>
-        <target>En fait, on est au courant depuis un bon bout de temps, je crois que Ralph l'a mentionné.</target>
+        <target>En fait, ils sont connus
+depuis un certain temps.</target>
       </trans-unit>
       <trans-unit id="107" resname="845ab870af362d5fb1951df5593e9362">
         <source>I accidentally stumbled into this right
 fresh out</source>
-        <target>Je suis tombé dessus par hasard </target>
+        <target>Je suis tombé dessus par hasard</target>
       </trans-unit>
       <trans-unit id="108" resname="ee2669a43613b59227e806aaa2ee577e">
         <source>of graduate school that</source>
-        <target>juste après ma thèse :</target>
+        <target>au tout début de ma carrière :</target>
       </trans-unit>
       <trans-unit id="109" resname="f7cbec62d68d6f60f7c2d95f9ff2878f">
         <source>chlorofluorocarbons were used as
 refrigerants.</source>
-        <target>les chlorofluorocarbures étaient utilisés comme réfrigérants</target>
+        <target>on utilisait les chlorofluorocarbures CFC
+comme réfrigérants</target>
       </trans-unit>
       <trans-unit id="110" resname="510cb1647e17b5620ba0e3f62b4f92f9">
         <source>[NOISE] I started working on them because
 in</source>
-        <target>et j'ai commencé à m'y intéresser</target>
+        <target>et j'ai commencé à m'y intéresser
+parce qu'en Inde,</target>
       </trans-unit>
       <trans-unit id="111" resname="5b1c3849efa2d27d3f1b9c63f1fb3a62">
         <source>India in another life, I was an engineer.</source>
-        <target>parce qu'en Inde, dans une autre vie, j'étais ingénieur.</target>
+        <target>dans une autre vie, j'étais ingénieur.</target>
       </trans-unit>
       <trans-unit id="112" resname="b930fb26ecea5a170fdf6e3e023f6fa8">
         <source>My job was to prevent this
 chlorofluorocarbons</source>
-        <target>Mon travail consistait à empêcher les fuites</target>
+        <target>Mon travail consistait à empêcher ces CFC</target>
       </trans-unit>
       <trans-unit id="113" resname="943ea89d6cbc70ddb55805164edec178">
         <source>from escaping out of the seal units.</source>
-        <target>de chlorofluorocarbures de leurs unités hermétiques.</target>
+        <target>de fuir les unités hermétiques.</target>
       </trans-unit>
       <trans-unit id="114" resname="689a07e7379467ffa3d3ef7d04c4f9fa">
         <source>So I got into atmospheric science, I
 learned quantum mechanics, put two and two</source>
-        <target>Je me suis intéressé aux sciences de l'atmosphère, j'ai fait de la mécanique quantique,</target>
+        <target>J'ai étudié les sciences de 
+l'atmosphère et la mécanique quantique,</target>
       </trans-unit>
       <trans-unit id="115" resname="b79b702227caa4efca7853d7dddd56bf">
         <source>together, what I discovered was that one
 molecule of this CFCs has</source>
-        <target>j'ai assemblé les deux et j'ai découvert qu'une molécule de CFC</target>
+        <target>et j'en ai conclu qu'une molécule de CFC
+a une capacité</target>
       </trans-unit>
       <trans-unit id="116" resname="43d4c30a03727e7497bd2cd555090f3b">
         <source>the same heat trapping effect as more than
 10,000 molecules of carbon dioxide.</source>
-        <target>a le même effet sur la température que 10 000 molécules de CO2.</target>
+        <target>à piéger la chaleur supérieure à celle 
+de 10 000 molécules de CO2.</target>
       </trans-unit>
       <trans-unit id="117" resname="5a5b4d04877edc5f5ef0be343319228e">
         <source>Okay, when it was published, all kinds of
 names were used about me.</source>
-        <target>Quand j'ai publié ça, on m'a traité de tous les noms.</target>
+        <target>Quand j'ai publié cela,
+on m'a traité de tous les noms.</target>
       </trans-unit>
       <trans-unit id="118" resname="556f902a1f89a96c4c9640c33e77050a">
         <source>It is dangerous, crazy, he's so-called
@@ -594,17 +632,20 @@ wrong, but</source>
       <trans-unit id="119" resname="1f2e8e5153a2373c76e6066149e8de02">
         <source>took scientists five years to prove this
 to themselves.</source>
-        <target>les scientifiques ont mis 5 ans pour se le prouver.</target>
+        <target>mais les scientifiques ont mis 5 ans
+à le prouver.</target>
       </trans-unit>
       <trans-unit id="120" resname="d49cc0e6f2a934c65691ddd8547ab25b">
         <source>So if you'd known these other short lived
 climate pollutants.</source>
-        <target>On connait donc ces autres polluants du climat à courte durée de vie depuis ce temps.</target>
+        <target>On connait donc ces polluants
+à courte durée de vie depuis ce temps.</target>
       </trans-unit>
       <trans-unit id="121" resname="d06e810b2f1bd4385a3fade90ed6b10b">
         <source>This basically is a summary of the heat
 trapping.</source>
-        <target>Voici un résumé de la capacité des gaz à retenir la chaleur,</target>
+        <target>Voici un récapitulatif
+de la rétention de chaleur,</target>
       </trans-unit>
       <trans-unit id="122" resname="aad7db44eb1e9d9d5282aeb5e9afacde">
         <source>I'm not going to walk you through it step
@@ -614,11 +655,12 @@ by step.</source>
       <trans-unit id="123" resname="338721d76cb1e1e379473ad75cacdaa4">
         <source>Basically the area under each pie shows
 how much heating they are trapped.</source>
-        <target>en gros, la surface en dessous de chaque camembert montre la quantité de chaleur retenue.</target>
+        <target>la surface en dessous de chaque camembert
+montre la quantité de chaleur retenue.</target>
       </trans-unit>
       <trans-unit id="124" resname="4199e48fe8f3079f684e191a0542ed79">
         <source>This is about five years old.</source>
-        <target>Ces données datent d'il y a environ 5 ans,</target>
+        <target>Ces données ont environ 5 ans,</target>
       </trans-unit>
       <trans-unit id="125" resname="e777fc84c3fe9d6ec7ecd87dafe93d03">
         <source>This has been updated now.</source>
@@ -627,22 +669,26 @@ how much heating they are trapped.</source>
       <trans-unit id="126" resname="0c32467c64b17f7df2cdeca1cd2db1b9">
         <source>So in addition to the carbon dioxide, we
 see methane,</source>
-        <target>En plus du CO2, on voit donc le méthane,</target>
+        <target>En plus du CO2, on voit donc le méthane,
+les halocarbures,</target>
       </trans-unit>
       <trans-unit id="127" resname="5dcac03a0d826c296d5b30cf11afc992">
         <source>halo-carbons, ozone, and the, and the
 numbers show you relative comparison.</source>
-        <target>les halocarbures, l'ozone et les chiffres montrent leur comparaison relative.</target>
+        <target>l'ozone, et les chiffres correspondent à
+leur comparaison relative.</target>
       </trans-unit>
       <trans-unit id="128" resname="ae9d32e0bfcee583ac071ece86ec9047">
         <source>So basically, 40% of the global warming
 comes from these other pollutants.</source>
-        <target>Globalement, 40% du réchauffement climatique vient de ces autres polluants.</target>
+        <target>Globalement, ces autres polluants 
+causent 40% du réchauffement climatique</target>
       </trans-unit>
       <trans-unit id="129" resname="5f04a7d7aab6f1ff14c2af7cd7cafe38">
         <source>So you can ask, why are we paying
 attention so much to CO2, not to this?</source>
-        <target>Vous êtes en droit de demander : «Pourquoi se concentre t-on sur le CO2, et pas ceux-là ?»</target>
+        <target>Vous êtes en droit de demander :
+«Pourquoi se concentre t-on sur le CO2 ?»</target>
       </trans-unit>
       <trans-unit id="130" resname="dafbb9a15e11badf97b926a06c2a096e">
         <source>For an important reason.</source>
@@ -651,22 +697,25 @@ attention so much to CO2, not to this?</source>
       <trans-unit id="131" resname="cd7ed9de2d40bf9ebea132087a3b4706">
         <source>If you don't do anything about CO2, that
 CO2 will</source>
-        <target>si on ne fait rien à propos du CO2</target>
+        <target>si on ne fait rien à propos du CO2,</target>
       </trans-unit>
       <trans-unit id="132" resname="504e0aab2266300a889ce88b8353b904">
         <source>fill up that whole chart by a hundred
 years from now.</source>
-        <target>ce CO2 remplira le diagramme d'ici 100 ans.</target>
+        <target>il remplira entièrement ce diagramme
+d'ici 100 ans.</target>
       </trans-unit>
       <trans-unit id="133" resname="6359c035983be4790ce16b8f7b90dfb7">
         <source>So, please don't take my talk as saying we
 don't do anything about CO2.</source>
-        <target>Alors s'il vous plait, ne pensez pas que je dis qu'il ne faut rien faire pour le CO2,</target>
+        <target>S'il vous plait, ne vous m'éprenez pas :
+il faut agir sur le CO2,</target>
       </trans-unit>
       <trans-unit id="134" resname="12402c1677408c69c546253e6d04b7a7">
         <source>I'm talking about in addition to carbon
 dioxide, what can, what else can we do?</source>
-        <target>je parle de ce qu'on peut faire en plus des réductions de CO2.</target>
+        <target>mais je parle de ce qu'on peut faire
+en plus des réductions de CO2.</target>
       </trans-unit>
       <trans-unit id="135" resname="c1ba53a31e792bc1840abca0796e3742">
         <source>So the thing about these pollutants.</source>
@@ -675,45 +724,52 @@ dioxide, what can, what else can we do?</source>
       <trans-unit id="136" resname="2c5aa5ebf8937319ed034185772e538b">
         <source>So we double up the strategy about, three
 years ago published this</source>
-        <target>contre ces polluants, et publié cet article il y a trois ans :</target>
+        <target>contre ces polluants, 
+et publié cet article il y a trois ans :</target>
       </trans-unit>
       <trans-unit id="137" resname="27b259f7cf195cf362f17a58479af08d">
         <source>paper: how do we limit global warming to
 less than two degrees.</source>
-        <target>comment maintenir le réchauffement climatique en dessous de 2°C. </target>
+        <target>comment maintenir le réchauffement
+climatique en dessous de 2°C. </target>
       </trans-unit>
       <trans-unit id="138" resname="3b6e713857ec52173752cbfc178ae570">
         <source>First and foremost, stabilize carbon
 dioxide below 440 ppm.</source>
-        <target>Le plus important c'est de stabiliser la concentration de CO2 sous 440 ppm.</target>
+        <target>Le plus important, c'est de stabiliser
+la concentration de CO2 sous 440 ppm.</target>
       </trans-unit>
       <trans-unit id="139" resname="6c761302ac312ea9bbf902f095800ed3">
         <source>Remember we saw Professor Ralph Keiling's
 father, David Keiling's</source>
-        <target>Souvenez-vous, nous avons vous la courbe de David Keiling</target>
+        <target>Souvenez-vous de la courbe tracée
+par David Keeling,</target>
       </trans-unit>
       <trans-unit id="140" resname="4904e545c2af7c231686f51dc623e0cb">
         <source>[INAUDIBLE], that showed we already
 reached 400 ppm as of this year.</source>
-        <target>, le père du professeur Ralph Keiling, montrant que nous avons atteint 400 ppm cette année.</target>
+        <target>le père du professeur Ralph Keeling : 
+nous avons atteint 400 ppm cette année.</target>
       </trans-unit>
       <trans-unit id="141" resname="cd60c54b377f6882b9109a9640623446">
         <source>Before Mr. James Watt invented the steam</source>
-        <target>Avant l'invention du moteur à vapeur par M. James Watt,</target>
+        <target>Avant l'invention du moteur à vapeur 
+par M. James Watt,</target>
       </trans-unit>
       <trans-unit id="142" resname="3f64d8e28003d303b6d7bcf41866321f">
         <source>engine, it was about 270 parts per
 million.</source>
-        <target>elle était d'environ 270 parties par million.</target>
+        <target>elle était d'environ 270 ppm.</target>
       </trans-unit>
       <trans-unit id="143" resname="f99ad2f75f248761dc157f4a211ae57c">
         <source>So we've gone up about 130.</source>
-        <target>Elle a donc augmenté d'environ 130 ppm.</target>
+        <target>Elle a donc augmenté d'environ 130 ppm,</target>
       </trans-unit>
       <trans-unit id="144" resname="b5e088964bcb8f491a4220dcea6a6f5b">
         <source>And my work says we can only let it go
 another 40 PPM, another 10%.</source>
-        <target>Et mes résultats indiquent qu'on ne peut pas la laisser augmenter de plus de 40 ppm, soit 10%.</target>
+        <target>et d'après mes résultats, on ne peut la
+laisser augmenter que de 40 ppm, soit 10%.</target>
       </trans-unit>
       <trans-unit id="145" resname="9cb63f58b74c7724dc9e517986181adf">
         <source>Okay?</source>
@@ -722,7 +778,8 @@ another 40 PPM, another 10%.</source>
       <trans-unit id="146" resname="c00c713eb4a64359465118bda3c52766">
         <source>And then we'll reduced this other short
 lived pollutants.</source>
-        <target>Ensuite, nous réduirons les autres polluants à courte durée de vie</target>
+        <target>Ensuite, nous réduirons les autres 
+polluants à courte durée de vie</target>
       </trans-unit>
       <trans-unit id="147" resname="a36365c87bde3a4d9ea4bb39c42a00e9">
         <source>I have given them.</source>
@@ -730,35 +787,39 @@ lived pollutants.</source>
       </trans-unit>
       <trans-unit id="148" resname="67b08c8dcb0dd27364b5695e67c318b0">
         <source>So the top one is the planet T4B problem.</source>
-        <target>Le premier, c'est le problème </target>
+        <target>Le CO2, c'est le problème </target>
       </trans-unit>
       <trans-unit id="149" resname="f4a16583fca858f4eb2d54188ba315bf">
         <source>The top 4 billion, all of us.</source>
-        <target>des 4 milliards les plus riches, c'est nous.</target>
+        <target>des 4 milliards les plus riches</target>
       </trans-unit>
       <trans-unit id="150" resname="2924cfdfaf0cba2c695c7e2dbdfd849a">
         <source>The short lived pollutants is both the top
 4 billion and bottom 3 billion problem.</source>
-        <target>Les polluants à courte durée de vie sont l'affaire de nous tous, les 7 milliards. </target>
+        <target>Les polluants à courte durée de vie 
+sont l'affaire de tous. </target>
       </trans-unit>
       <trans-unit id="151" resname="93991b91ce69b149487b67b681b9b7cc">
         <source>That's where the interesting nexus comes
 in.</source>
-        <target>C'est là qu'intervient le réseau intéressant.</target>
+        <target>C'est là qu'intervient la connection intéressante.</target>
       </trans-unit>
       <trans-unit id="152" resname="e88bdc47e6516b76db5ee0ee1b94e603">
         <source>So, what is the time scale of shown two
 weeks?</source>
-        <target>Pourquoi l'échelle de temps montre t-elle deux semaines ?</target>
+        <target>Pourquoi l'échelle de temps montre
+t-elle deux semaines ?</target>
       </trans-unit>
       <trans-unit id="153" resname="5640b17b5b5bdb929718c2faf253abf0">
         <source>The black carbon particles stays in the
 air only for two weeks.</source>
-        <target>Les particules de suie restent dans l'air deux semaines seulement.</target>
+        <target>Les particules de suie restent
+seulement deux semaines dans l'air.</target>
       </trans-unit>
       <trans-unit id="154" resname="e0d8620a5d9a9202487bcfbd127c92cb">
         <source>The good news there is, if you stop</source>
-        <target>La bonne nouvelle c'est donc que si on arrête de les émettre,</target>
+        <target>La bonne nouvelle c'est donc
+que si on arrête de les émettre,</target>
       </trans-unit>
       <trans-unit id="155" resname="06e9aebe68bc8c5ebce9c9ad37af8b6e">
         <source>emitting them, they're gone two weeks from
@@ -772,69 +833,80 @@ now.</source>
       <trans-unit id="157" resname="42c5392dbe67ace4012a3c51b6ac20ec">
         <source>California cut down its black carbon
 emissions</source>
-        <target>La Californie a réduit les émissions de suie</target>
+        <target>La Californie a réduit
+les émissions de suie</target>
       </trans-unit>
       <trans-unit id="158" resname="c9e7f5f6965f0bd48c5533920753c51e">
         <source>from diesel transportation, we just
 published results</source>
-        <target>des moteurs diesel, nous venons de publier les résultats</target>
+        <target>par les moteurs diesel, 
+et nous venons de publier des résultats</target>
       </trans-unit>
       <trans-unit id="159" resname="71e96e11af5d8aae9a118fb9d33bad7b">
         <source>showing our black carbon concentration has
 come down 50%, just in the last 20 years.</source>
-        <target>montrant que notre concentration en suie a diminué de 50% ces 20 dernières années.</target>
+        <target>montrant que la concentration en suie 
+a baissé de 50% en 20 ans.</target>
       </trans-unit>
       <trans-unit id="160" resname="a9e9242eba13ac8faf2d2d4ac3b1a29d">
         <source>So they're easy to get rid of, we have off
 the shelf</source>
-        <target>c'est facile de s'en débarrasser, les technologies sont disponibles,</target>
+        <target>C'est donc facile de s'en débarrasser,
+les technologies sont disponibles,</target>
       </trans-unit>
       <trans-unit id="161" resname="04bc3ae3bd238fe2f0ab8df7cfe97e1d">
         <source>technologies to do that, same thing true
 for all these other things.</source>
-        <target>et c'est aussi le cas de ces autres polluants.</target>
+        <target>et c'est aussi le cas
+pour tous ces autres polluants.</target>
       </trans-unit>
       <trans-unit id="162" resname="08963b00c35bdc709ecded2b62db9940">
         <source>So by working on this we can get some
 quick relief for the next 20-30 years.</source>
-        <target>En travaillant sur ça, on peut donc obtenir un soulagement rapide pour les 20 à 30 prochaines années.</target>
+        <target>En travaillant sur ça, on peut créer
+rapidement du répit pour 20 à 30 ans.</target>
       </trans-unit>
       <trans-unit id="163" resname="ad42c9550b5202f5703ca0ebb082f046">
         <source>So this is all put together.</source>
-        <target>Voici quand on regroupe tout.</target>
+        <target>Voilà, tout est regroupé.</target>
       </trans-unit>
       <trans-unit id="164" resname="a557fe127e957d2ebfc360e32d5a7379">
         <source>I, I'm looking at this.</source>
-        <target>C'est ça que je regarde.</target>
+        <target>Je le regarde</target>
       </trans-unit>
       <trans-unit id="165" resname="5be0e56142a092549c63607d54ee4a06">
         <source>I'm remembering what prophecy Mr
 Summerville said,</source>
-        <target>Je me souviens de la prophétie de M. Summerville,</target>
+        <target>et je me rappelle ce qu'a dit
+le professeur Summerville,</target>
       </trans-unit>
       <trans-unit id="166" resname="2504ecf0d4177aa0388f391cd0f005ab">
         <source>I'm not going to show any graphs.</source>
-        <target>je ne vais pas vous montrer des graphiques,</target>
+        <target>je ne vais pas vous montrer
+des graphiques,</target>
       </trans-unit>
       <trans-unit id="167" resname="a1c9b99b20c70a40f996ec2e2c503c62">
         <source>So I'm not going to walk you through a
 step by</source>
-        <target>je ne vais pas vous détailler le plan étape par étape,</target>
+        <target>je ne vais pas vous détailler
+le plan étape par étape,</target>
       </trans-unit>
       <trans-unit id="168" resname="26ba75bad96e7a41f375b883aba168ac">
         <source>step, but what it shows is a projection of
 temperature trends.</source>
-        <target>mais ce que ça montre c'est le résultat d'une modélisation</target>
+        <target>mais ça montre une prévision
+de futures tendances de températures</target>
       </trans-unit>
       <trans-unit id="169" resname="79527d004268e8d81b330c979cb816e4">
         <source>Temperature, yeah, trends for the future
 from a model.</source>
-        <target>des prévisions de température pour le futur.</target>
+        <target>obtenues à partir d'un modèle.</target>
       </trans-unit>
       <trans-unit id="170" resname="08e83fe1196b3ff00cdb4b465b924896">
         <source>The red curve is where we will be if we
 don't do anything about it.</source>
-        <target>La courbe rouge représente la situation si on ne fait rien.</target>
+        <target>La courbe rouge représente la situation
+si on ne fait rien.</target>
       </trans-unit>
       <trans-unit id="171" resname="6b5c5ffeed1635789df0453225daf51a">
         <source>Okay?</source>
@@ -843,30 +915,34 @@ don't do anything about it.</source>
       <trans-unit id="172" resname="7a6f368eee7db1ad9f18ea9534567ed6">
         <source>We'll exceed four to two degrees by 2050
 and four degrees by 2100.</source>
-        <target>La température moyenne augmentera de plus de 2°C d'ici 2050 et de 4°C en 2100. </target>
+        <target>La température moyenne augmentera de 2°C
+d'ici 2050 et de 4°C d'ici 2100. </target>
       </trans-unit>
       <trans-unit id="173" resname="eedb54f60b15732f830d569ac5f780d4">
         <source>So if you limit the CO2 to, you know, 440</source>
-        <target>Si on limite la concentration de CO2 à 440 ppm</target>
+        <target>Si on limite la concentration de CO2</target>
       </trans-unit>
       <trans-unit id="174" resname="a372bcf347a74653c7d0a6b6f3221f30">
         <source>parts per million, that warming would be
 reduced by a degree.</source>
-        <target>le réchauffement sera moindre d'un degré.</target>
+        <target>à 440 ppm, le réchauffement sera
+moindre d'un degré.</target>
       </trans-unit>
       <trans-unit id="175" resname="1ec308545d4d47ba25cf7f0404168fe0">
         <source>And then the so called short lived climate
 pollutants will give you another</source>
-        <target>Réduire les «polluants climatiques à courte durée de vie» </target>
+        <target>Réduire les polluants à courte 
+durée de vie apporte aussi un degré,</target>
       </trans-unit>
       <trans-unit id="176" resname="f9b6042fb95e79b781219ff71967887e">
         <source>degree, so that we can maintain the</source>
-        <target>apporte aussi un degré, on peut donc ainsi</target>
+        <target>on peut donc ainsi limiter l'augmentation</target>
       </trans-unit>
       <trans-unit id="177" resname="b101ecadd97350304f952087b89db922">
         <source>temperature under two degrees throughout
 the century.</source>
-        <target>maintenir l'augmentation de la température inférieure à 2°C au cours du siècle. </target>
+        <target>de la température sous les 2°C 
+au cours du siècle. </target>
       </trans-unit>
       <trans-unit id="178" resname="f80a82335e0a2d7b00f33a234ceb5ea6">
         <source>So it's not a hopeless problem, but</source>
@@ -875,21 +951,25 @@ the century.</source>
       <trans-unit id="179" resname="411cde018116fba72f6fa3428d632b3b">
         <source>of course, limiting carbon dioxide
 emission is the</source>
-        <target>Bien sur, limiter les émissions de CO2 est un énorme défi</target>
+        <target>Bien sûr, limiter les émissions 
+de CO2 est le grand défi</target>
       </trans-unit>
       <trans-unit id="180" resname="9d5e018366ed5613933c779a1c326002">
         <source>huge challenge, and I think that's what
 the seed is all about, how to engineer.</source>
-        <target>et je pense que ....</target>
+        <target>et je pense que comment y arriver,
+c'est le thème de ces conférences.</target>
       </trans-unit>
       <trans-unit id="181" resname="e65c00b7b2894c3578f8f70c0479509b">
         <source>We need engineers to solve the problem.</source>
-        <target>nous avons besoin d'ingénieurs pour résoudre le problème.</target>
+        <target>Nous avons besoin d'ingénieurs
+pour résoudre le problème.</target>
       </trans-unit>
       <trans-unit id="182" resname="5d71b318173f283cbad30a55d06514e1">
         <source>On the right hand side, I'm showing
 projected sea level rise.</source>
-        <target>À droite, vous voyez la projection de l'augmentation du niveau de la mer.</target>
+        <target>À droite, vous voyez les prévisions
+du niveau de la mer.</target>
       </trans-unit>
       <trans-unit id="183" resname="7174bb3dbcbd8bfe4ab568db83063052">
         <source>It's difficult to walk me through this.</source>
@@ -898,17 +978,20 @@ projected sea level rise.</source>
       <trans-unit id="184" resname="150d1cbfd4ac4bf6b3b40f7b5be576d1">
         <source>Basically what it shows, together within
 carbon</source>
-        <target>En gros, ce que ça montre, c'est qu'en réduisant</target>
+        <target>En gros, ce que ça montre, 
+c'est qu'en réduisant le CO2</target>
       </trans-unit>
       <trans-unit id="185" resname="c62bd81250fd4a11a447a37073fb226c">
         <source>dioxide and the short lived climate
 pollutants.</source>
-        <target>le CO2 et les polluants à courte durée de vie ensemble</target>
+        <target>et les polluants à courte 
+durée de vie ensemble,</target>
       </trans-unit>
       <trans-unit id="186" resname="186a691fc6a347b1364d66a42232972c">
         <source>You can cut down the projected sea level
 rise by about 30%, okay.</source>
-        <target>on peut réduire l'augmentation du niveau de la mer projetée de 30%.</target>
+        <target>on peut réduire l'augmentation prévue 
+du niveau de la mer de 30%.</target>
       </trans-unit>
       <trans-unit id="187" resname="1162d2880d5bc2d0e800d4f78a8c0ed5">
         <source>So what, what does this mean?</source>
@@ -917,7 +1000,7 @@ rise by about 30%, okay.</source>
       <trans-unit id="188" resname="14b57aea6160a61a560a3b2388ce06c6">
         <source>What does two degrees mean or four
 degrees,</source>
-        <target>Qu'est ce que 2 ou 4 degrés veulent dire ?</target>
+        <target>Que veulent dire 2 ou 4 degrés ?</target>
       </trans-unit>
       <trans-unit id="189" resname="a83897079096bc99262cc1afe82e84c6">
         <source>let me just give you some sense of
@@ -927,21 +1010,24 @@ perspective.</source>
       <trans-unit id="190" resname="0022b75c31601d2928961b18558fe6f2">
         <source>Many skeptics say, oh the climate has
 changed by several degrees in the past.</source>
-        <target>De nombreux sceptiques disent «Oh, le climat a changé de plusieurs degrés dans le passé,</target>
+        <target>Les sceptiques disent : «Oh, le climat 
+a déjà changé de plusieurs degrés,</target>
       </trans-unit>
       <trans-unit id="191" resname="0134b5e15cae20374307ec57617498d9">
         <source>Another two degrees is not a big deal.</source>
-        <target>deux autres degrés, ce n'est pas grand chose.»</target>
+        <target>deux autres degrés, c'est rien.»</target>
       </trans-unit>
       <trans-unit id="192" resname="5641140b7d781e2e35321ac0337289b1">
         <source>What they forget to tell you is that this
 shows</source>
-        <target>Ce qu'ils oublient de vous dire, c'est que ceci montre</target>
+        <target>Ce qu'ils oublient de vous dire, 
+c'est que ceci montre</target>
       </trans-unit>
       <trans-unit id="193" resname="b8cc99ba98e548cd27c7e215e7ae319e">
         <source>how the planet's temperature has changed
 in the last 50.</source>
-        <target>les variations de la température moyenne au cours des 50 ????</target>
+        <target>les variations de température moyenne
+ces 50 000 dernières années</target>
       </trans-unit>
       <trans-unit id="194" resname="f77d229b12afe9622cf74b7683bc8274">
         <source>They are right.</source>
@@ -954,7 +1040,8 @@ in the last 50.</source>
       <trans-unit id="196" resname="22d50af12ccdabbf379339bcd8c603c9">
         <source>But if you see, we go through glacial,
 interglacial cycles.</source>
-        <target>Mais, regardez, on passe par des cycles glaciaires et interglaciaires.</target>
+        <target>Mais, regardez, on passe par 
+des cycles glaciaires et interglaciaires.</target>
       </trans-unit>
       <trans-unit id="197" resname="62d0a477faf586e845336d3399b8b04b">
         <source>Okay?</source>
@@ -963,7 +1050,8 @@ interglacial cycles.</source>
       <trans-unit id="198" resname="136b068930fbcad1cdecd38ac1ed9ba9">
         <source>So we have been in a glacial cycle last
 50,000</source>
-        <target>On a été dans un cycle glaciaire ces 50 000 dernières années,</target>
+        <target>On a été dans un cycle glaciaire 
+ces 50 000 dernières années,</target>
       </trans-unit>
       <trans-unit id="199" resname="08ea61a1000efb7eb64ea44180d2595b">
         <source>years, just got out of it, but 6,000 years
@@ -977,12 +1065,14 @@ ago.</source>
       <trans-unit id="201" resname="a69eed0b2f71cce0bca3f6c3e2ba22a7">
         <source>Which means, when it's quoted two or four
 degrees, it's a planet</source>
-        <target>Cela veut dire, si on a une augmentation de 2 ou 4 degrés, </target>
+        <target>Cela veut dire, si on a une augmentation
+de 2 à 4 degrés, </target>
       </trans-unit>
       <trans-unit id="202" resname="2cdf21d917e644413627c0daa0ab5ab7">
         <source>the system has not experienced, over the
 last 50,000 to 100,000 years.</source>
-        <target>on a une situation que la planète n'a pas connue depuis 50 000 à 100 000 ans.</target>
+        <target>on a une situation que la planète n'a pas
+connue depuis 50 000 à 100 000 ans.</target>
       </trans-unit>
       <trans-unit id="203" resname="65f91e87527b6272e8be6e5d0ae77adb">
         <source>So that's the key.</source>
@@ -991,26 +1081,30 @@ last 50,000 to 100,000 years.</source>
       <trans-unit id="204" resname="1f47669e0466cbd8747ec2b108ffe208">
         <source>The change is on top of a warm epoch we're
 going through.</source>
-        <target>ce changement s'ajoute au fait qu'on traverse une période chaude,</target>
+        <target>ce changement s'ajoute au fait 
+qu'on traverse une période chaude,</target>
       </trans-unit>
       <trans-unit id="205" resname="245523ece7f7280758b74ff6a836ec02">
         <source>That's what worries scientists.</source>
-        <target>et c'est ce qui inquiète les scientifiques :</target>
+        <target>c'est ce qui inquiète les scientifiques :</target>
       </trans-unit>
       <trans-unit id="206" resname="d37d393c00f50e91a2b7df3a66f8447b">
         <source>Because that's a planet we don't have any
 calibration for our models, and I honestly</source>
-        <target>c'est une planète pour laquelle on n'a pas de calibration pour les modèles, </target>
+        <target>c'est une planète pour laquelle 
+on ne peut pas calibrer les modèles, </target>
       </trans-unit>
       <trans-unit id="207" resname="175a7868cfad1a83b18dee30a4a3bdbe">
         <source>do not put too much trust on models on
 such vastly different planet.</source>
-        <target>et honnêtement, je ne fais pas confiance aux modèles pour une planète si différente,</target>
+        <target>et honnêtement, je ne leur fais pas 
+confiance pour une planète si différente</target>
       </trans-unit>
       <trans-unit id="208" resname="3f2ff6933786c8ac945f68185273fd3b">
         <source>Okay because they have way no to calibrate
 them.</source>
-        <target>parce qu'ils n'ont aucun moyen de les calibrer.</target>
+        <target>parce qu'il n'y a aucun moyen
+de les calibrer.</target>
       </trans-unit>
     </body>
   </file>
